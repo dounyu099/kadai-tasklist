@@ -14,7 +14,7 @@
                 ${param.content}
             </div>
             <div id="footer">
-                by Taro Kirameki.
+                TA kadai Lesson16
             </div>
         </div>
     </body>
